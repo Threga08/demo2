@@ -1,0 +1,11 @@
+.child {
+  width: 1000px;
+  height: 1000px;
+  background-color: rgb(41, 223, 50);
+}
+.parent {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  /*justify-content: flex-end;*/
+}
